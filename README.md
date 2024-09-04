@@ -6,7 +6,7 @@
 - JSoup 1.17.1 ([Сайт](https://jsoup.org/) | [Git](https://github.com/jhy/jsoup) | [Maven](https://mvnrepository.com/artifact/org.jsoup/jsoup/1.17.1))
 
 ## Установка
-1. Скачайте [ZIP](https://disk.yandex.ru/d/TiZhmmoPMUyHGA)
+1. Скачайте [ZIP](https://disk.yandex.ru/d/Tjm7wF1CTx3cOg)
 2. Распакуйте архив
 
 ## Использование
