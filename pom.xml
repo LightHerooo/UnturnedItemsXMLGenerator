@@ -6,7 +6,7 @@
 
     <groupId>ru.herooo.projects</groupId>
     <artifactId>unturned-items-xml-generator</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -23,7 +23,7 @@
     </dependencies>
 
     <build>
-        <finalName>UnturnedItemsXMLGenerator</finalName>
+        <finalName>UnturnedItemsXMLGenerator (${version})</finalName>
         <plugins>
             <plugin>
                 <artifactId>maven-assembly-plugin</artifactId>
